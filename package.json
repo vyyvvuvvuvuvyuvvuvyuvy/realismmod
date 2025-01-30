@@ -1,5 +1,18 @@
 realismmod/
-│
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/
+│               └── yourname/
+│                   └── realismmod/
+│                       ├── ModItems.java
+│                       ├── RealismMod.java
+│                       ├── ItemGroundStick.java
+│                       ├── ItemGroundRock.java
+│                       ├── GroundStickEntity.java
+│                       ├── GroundRockEntity.java
+│                       ├── RenderGroundItem.java
+│                       └── ModMain.java
 ├── assets/
 │   └── realismmod/
 │       └── textures/
@@ -8,20 +21,6 @@ realismmod/
 │           │   └── ground_rock.png
 │       └── lang/
 │           └── en_us.lang  (optional: for localization)
-├── src/
-│   └── main/
-│       └── java/
-│           └── com/
-│               └── yourname/
-│                   └── realismmod/
-│                       ├── ModItems.java
-│                       ├── WorldGenRealism.java
-│                       ├── ItemGroundStick.java
-│                       ├── ItemGroundRock.java
-│                       ├── GroundStickEntity.java
-│                       ├── GroundRockEntity.java
-│                       ├── RenderGroundItem.java
-│                       └── ModMain.java
 ├── META-INF/
 │   └── mods.toml
 └── pack.mcmeta
