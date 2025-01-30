@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[34,)"
+license="MIT"
+issueTrackerURL="https://github.com/yourusername/realismmod/issues"
+mod {
+  id="realismmod"
+  version="1.0.0"
+  displayName="Realism Mod"
+  description="Adds realism to Minecraft with tools, rocks, and sticks!"
+  authors="Your Name"
+}
